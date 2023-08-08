@@ -4,7 +4,7 @@ Welcome to the House Prices Exploratory Data Analysis (EDA) ! This project focus
 
 ## Project Overview
 
-This exploratory data analysis project aims to:
+This exploratory data analysis project aimed to:
 - Perform feature selection to identify relevant variables for analysis.
 - Check for missing values in the dataset and determine appropriate handling strategies.
 - Explore and analyze numerical variables in the dataset.
